@@ -1,13 +1,18 @@
-<h1>Olá! Me chamo Marlon!</h1>
+<h1>Olá, Me chamo Marlon!</h1>
 
-![Marlon Oliveira Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=merko)
+<h2>:red_circle:Sobre mim</h2> 
+<h4>  
+  ° Sou Desenvolvedor WEB Fullstack<br>
+  ° Participei de um conceituado bootcamp chamado Generation Brasil, que me proporcionou muitos conhecimentos desde comportamento, muitos trabalhos em equipe, e principalmente a parte técnica.<br>
+  ° Tive a oportunidade de passar um mês na Inglaterra (Reino Unido) onde consegui aplicar meus conhecimentos em inglês, me sinto muito confortável ao conversar em outra língua!<br>
+<h4>  
+  
+<div align="center" width="50">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=merko">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&layout=compact&langs_count=16&theme=merko">
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&size_weight=0.5&count_weight=0.5 )
-
-<h2>:red_circle:Sobre mim:</h2> 
-
-
-<h2>:green_circle:Minhas skills:</h2> 
+<h2>:green_circle:Minhas skills</h2> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -18,9 +23,8 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="">
 
-<h2>:orange_circle:Ferramentas que mais utilizo:</h2> 
+<h2>:orange_circle:Ferramentas que mais utilizo</h2> 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
