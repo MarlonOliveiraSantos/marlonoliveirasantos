@@ -27,7 +27,7 @@
 
 <h2>:large_blue_circle:Bora nos conectar!</h2> 
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/marlonoliveirasantos/">
+  <a href="https://www.linkedin.com/in/marlonoliveirasantos/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
 
