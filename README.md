@@ -5,12 +5,21 @@ Olá! Me chamo Marlon!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMarlonOliveiraSantos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
 <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMarlonOliveiraSantos=anuraghazra&show_icons=true&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true" />
+</picture>
 
 
 
