@@ -1,12 +1,14 @@
 <h1>Olá, Me chamo Marlon!</h1>
 
+<img align="right" src="https://komarev.com/ghpvc/?username=MarlonOliveiraSantos&color=ff69b4"><br>
+
 <h2>:red_circle:Sobre mim</h2> 
 <h4>  
   ° Sou Desenvolvedor WEB Fullstack<br>
   ° Participei de um conceituado bootcamp chamado Generation Brasil, que me proporcionou muitos conhecimentos desde comportamento, muitos trabalhos em equipe, e principalmente a parte técnica.<br>
   ° Tive a oportunidade de passar um mês na Inglaterra (Reino Unido) onde consegui aplicar meus conhecimentos em inglês, me sinto muito confortável ao conversar em outra língua!<br>
 <h4>  
-<img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
+<img src="https://i.imgur.com/MgBCvTm.gif">
   
 <div align="center" width="50">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=merko">
