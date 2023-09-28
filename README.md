@@ -1,17 +1,8 @@
 Olá! Me chamo Marlon!
 
-<div> 
-  <a href="https://github-readme-stats.vercel.app/api?username=[MarlonOliveiraSantos]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
-</div>
-
-    
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
-<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
-
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=dark"
     media="(prefers-color-scheme: tokyonight)"
   />
   <source
@@ -20,6 +11,9 @@ Olá! Me chamo Marlon!
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true" />
 </picture>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MarlonOliveiraSantos/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MarlonOliveiraSantos/github-readme-stats#gh-light-mode-only)
 
 
 
