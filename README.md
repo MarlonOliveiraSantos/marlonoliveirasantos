@@ -1,7 +1,5 @@
 <h1>Olá, Me chamo Marlon!</h1>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=MarlonOliveiraSantos&color=ff69b4"><br>
-
 <h2>:red_circle:Sobre mim</h2> 
 <h4>  
   ° Sou Desenvolvedor WEB Fullstack<br>
