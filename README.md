@@ -1,6 +1,8 @@
 Olá! Me chamo Marlon!
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+<img src="{[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)}" />
+
+
 
 <!--
 
