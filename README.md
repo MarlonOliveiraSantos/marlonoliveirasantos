@@ -1,6 +1,8 @@
 Olá! Me chamo Marlon!
 
 <img src="{[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)}" />
+<img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
+<img src="{BadgeURLHere}" />
 
 
 
