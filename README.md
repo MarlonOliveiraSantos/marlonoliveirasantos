@@ -1,8 +1,12 @@
 Olá! Me chamo Marlon!
 
-<img src="{https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green}" />
+<div> 
+  <a href="https://github.com/MarlonOliveiraSantos/marlonoliveirasantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
+</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
 <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
-<img src="{BadgeURLHere}" />
+
 
 
 
