@@ -10,6 +10,8 @@ Olá! Me chamo Marlon!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
 <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMarlonOliveiraSantos=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
