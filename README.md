@@ -13,7 +13,9 @@ Olá! Me chamo Marlon!
 </picture>
 
 
-![Top Langs stats-radical](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&size_weight=0.5&count_weight=0.5)
+
+![MarlonOliveiraSantos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&bg_color=00000000)
 
 
 
