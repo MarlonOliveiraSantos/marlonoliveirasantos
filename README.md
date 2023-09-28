@@ -1,12 +1,13 @@
-Olá! Me chamo Marlon!
+<h1>Olá! Me chamo Marlon!</h1>
 
 ![Marlon Oliveira Santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&size_weight=0.5&count_weight=0.5 )
 
+<h2>:red_circle:Sobre mim:</h2> 
 
 
-Minhas skills:
+<h2>:green_circle:Minhas skills:</h2> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -19,15 +20,12 @@ Minhas skills:
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="">
 
-Ferramentas que mais uso:
+<h2>:orange_circle:Ferramentas que mais utilizo:</h2> 
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-
-
-Curiosidades:
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white">
 
-:blue_square:Bora nos conectar!
+<h2>:large_blue_circle:Bora nos conectar!</h2> 
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/marlonoliveirasantos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
