@@ -4,6 +4,8 @@ Olá! Me chamo Marlon!
   <a href="https://github-readme-stats.vercel.app/api?username=[MarlonOliveiraSantos]">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMarlonOliveiraSantos=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" />
 <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />
