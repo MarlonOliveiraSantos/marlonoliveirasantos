@@ -12,9 +12,6 @@ Olá! Me chamo Marlon!
   <img src="https://github-readme-stats.vercel.app/api?username=MarlonOliveiraSantos&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&hide_progress=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&langs_count=8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonOliveiraSantos&size_weight=0.5&count_weight=0.5)
 
