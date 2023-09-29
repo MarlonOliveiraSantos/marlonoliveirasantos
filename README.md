@@ -40,6 +40,7 @@
   <a href="https://www.linkedin.com/in/marlonoliveirasantos/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><br>
   Email: marlon.oliveira34@hotmail.com  
+  Telefone: 11 982750489  
 </div>
 
 
