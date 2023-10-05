@@ -1,4 +1,4 @@
-<h1>Olá, Me chamo Marlon!</h1>
+<h1>Olá, me chamo Marlon!</h1>
 
 <h2>:red_circle:Sobre mim</h2> 
 <h4>  
