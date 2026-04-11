@@ -1,10 +1,12 @@
-<h1>Olá, me chamo Marlon!</h1>
+<h1>Prazer, me chamo Marlon!</h1>
 
 <h2>:red_circle:Sobre mim</h2> 
 <h4>  
-  ° Sou Desenvolvedor WEB Fullstack<br>
-  ° Participei de um conceituado bootcamp chamado Generation Brasil, que me proporcionou muitos conhecimentos desde comportamento, muitos trabalhos em equipe, e principalmente a parte técnica.<br>
-  ° Tive a oportunidade de passar um mês na Inglaterra (Reino Unido) onde consegui aplicar meus conhecimentos em inglês, me sinto muito confortável ao conversar em outra língua!<br>
+  Sou Desenvolvedor de software na TOTVS JurITis
+  Principais tecnologias sendo desenvolvidas em C#, conhecimento voltado para arquitetura MVC, com Javascript, HTML e win.less(css), testes automatizados com playwright e experiência utilizando o banco de dados Oracle. Como regra de negócio desenvolvi interfaces de relatórios gerenciais para escritórios de Advocacia e aplicações web com lógicas voltada ao Gerencial
+Participei de um conceituado bootcamp (Generation Brasil) que me proporcionou muitos conhecimentos desde comportamento, trabalhos em equipe e principalmente a parte técnica, nesse bootcamp desenvolvi com um time de desenvolvedores um site que possui como objetivo conectar produtores pequenos com clientes interessados, pude aplicar diretamente Java, Spring Boot com API Rest, React, Typescript, JavaScript, Node.js, Teste JUnit e banco de dados tudo dentro da estrutura Scrum e Metodologia Ágil.
+Tive a oportunidade de passar um mês na Inglaterra e 15 dias nos EUA onde consegui aplicar meus conhecimentos em inglês, me sinto muito confortável ao conversar em outra língua.
+Gosto da área Tech pois é onde consigo expressar e usar minhas habilidades de tecnologia com meus conhecimentos em contabilidade e advocacia!
 <h4>  
 <img src="https://i.imgur.com/MgBCvTm.gif">
   
